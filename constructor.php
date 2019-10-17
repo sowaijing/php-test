@@ -17,4 +17,4 @@ $publisher = "publisher", $price = 0）{
 public function getLable(){
 	return "$this.title, $this.publiser";
 }
-}
+} 
