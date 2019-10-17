@@ -6,7 +6,7 @@ class car{
 	public function increasesSpeed(){
 		return "increasesSpeed";
 	}
-}
+} 
 
 class carSport extends car{
 	public $turbo = false;
